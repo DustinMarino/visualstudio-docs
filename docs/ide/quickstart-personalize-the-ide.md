@@ -30,9 +30,9 @@ If you haven't already installed Visual Studio, go to the [Visual Studio downloa
 
 The default color theme for Visual Studio's user interface is called **Blue**. Let's change it to **Dark**.
 
-1. On the menu bar, which is the row of menus such as **File** and **Edit**, choose **Tools** > **Options**.
+1. On the menu bar, which is the row of menus such as **File** and **Edit**, choose **Tools** > **Options**. (On Mac: Click "Visual Studios" on top right, Click "Preferences") 
 
-1. On the **Environment** > **General** options page, change the **Color theme** selection to **Dark**, and then choose **OK**.
+1. On the **Environment** > **General** options page, change the **Color theme** selection to **Dark**, and then choose **OK**. (On Mac: In "Visual Style" change "User Interface Theme" from "Light" to "Dark")
 
    The color theme for the entire Visual Studio development environment (IDE) changes to **Dark**.
 
